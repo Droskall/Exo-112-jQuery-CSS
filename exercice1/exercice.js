@@ -1,0 +1,1 @@
+let color = $('#color').css('background-color', 'pink')
